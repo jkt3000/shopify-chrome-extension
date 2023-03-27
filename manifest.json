@@ -14,8 +14,7 @@
   },
   "permissions": [
     "scripting",
-    "activeTab",
-    "action"
+    "activeTab"
   ],
   "host_permissions": ["https://*/*"],
   "content_scripts": [
